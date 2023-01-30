@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Lobster&family=Montserrat:wght@600&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    background-color: #1f1f1f;
+    color: #fff;
+    transition: .2s linear;
+}
+
+h1{
+    text-align: center;
+    font-size: 5.5rem;
+    font-family: 'Lobster', cursive;
+    letter-spacing: .2rem;
+}
+
+.game{
+    margin-left: 28.5rem;
+    margin-right: 28.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+h3{
+    font-size: 2.5rem;
+    font-family: 'Island Moments', cursive;
+    letter-spacing: .2rem;
+}
+
+img{
+    height: 8.5rem;
+}
+
+footer{
+    text-align: center;
+    padding-top: 12rem;
+    font-size: 1.5rem;
+}
